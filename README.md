@@ -1,4 +1,4 @@
-# ⚛️ Samet
+# Samet Ünsal
 
 > Exploring the future of computing.
 
@@ -6,16 +6,16 @@ Computer Engineering student focused on **Quantum Computing and Software Develop
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🎓 3rd year Computer Engineering student
-* ⚛️ Focused on Quantum Computing
-* 💻 Building real-world software systems
-* 🧩 Interested in combining theory with practical engineering
+* 3rd year Computer Engineering student
+* Focused on Quantum Computing
+* Building real-world software systems
+* Interested in combining theory with practical engineering
 
 ---
 
-## ⚛️ Research Direction
+## Research Direction
 
 * Quantum Computing fundamentals
 * Computational models beyond classical systems
@@ -23,7 +23,7 @@ Computer Engineering student focused on **Quantum Computing and Software Develop
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -37,45 +37,45 @@ Computer Engineering student focused on **Quantum Computing and Software Develop
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 🌍 WorldPass (Ongoing)
+### WorldPass (Ongoing)
 
 Quantum-resistant digital identity system
 → Designing a future-proof identity architecture
 
 ---
 
-### ⚛️ Quantum Experiments
+### Quantum Experiments
 
 Small-scale implementations & simulations
 → Understanding quantum concepts through code
 
 ---
 
-### 💻 Software Projects
+### Software Projects
 
 Backend systems & engineering experiments
 → Focus on clean architecture and scalability
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mathissdupont)
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
-* ⚛️ Quantum Computing (mathematical foundations & models)
-* 🧠 How quantum systems differ from classical computation
-* 🐳 Building reproducible environments with Docker
-* ⚙️ Designing scalable backend systems
+* Quantum Computing (mathematical foundations & models)
+* How quantum systems differ from classical computation
+* Building reproducible environments with Docker
+* Designing scalable backend systems
 
 ---
 
-## 🚀 Goals
+## Goals
 
 * Become a **quantum-focused software engineer**
 * Work on next-generation computing systems
@@ -83,12 +83,12 @@ Backend systems & engineering experiments
 
 ---
 
-## 📫 Contact
+## Contact
 
 * GitHub: https://github.com/mathissdupont
 
 ---
 
-## ⚡ Philosophy
+## Philosophy
 
 > "The best way to understand the future is to build it."
