@@ -1,27 +1,25 @@
-# 👋 Hi, I'm Samet
+# ⚛️ Samet
+
+> Exploring the future of computing.
 
 Computer Engineering student focused on **Quantum Computing and Software Development**.
-
-I enjoy building systems while exploring how future technologies like quantum computing can reshape them.
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 3rd year Computer Engineering student
-* ⚛️ Interested in Quantum Computing
-* 💻 Actively developing software projects
-* 🧩 Enjoy working on both theory and practical systems
-* 🚀 Curious about future technologies and how to build them
+* ⚛️ Focused on Quantum Computing
+* 💻 Building real-world software systems
+* 🧩 Interested in combining theory with practical engineering
 
 ---
 
-## ⚛️ Interests
+## ⚛️ Research Direction
 
-* Quantum Computing
-* Algorithms & problem solving
-* System design
-* Modern software development
+* Quantum Computing fundamentals
+* Computational models beyond classical systems
+* Early-stage exploration of post-quantum ideas
 
 ---
 
@@ -31,45 +29,59 @@ I enjoy building systems while exploring how future technologies like quantum co
 
 * Python, C, C++, C#
 
-**Tools & Systems**
+**Tools**
 
 * Linux
 * Git
-* Docker (learning & using in projects)
+* Docker
 
 ---
 
-## 🔬 Projects
+## 🧩 Featured Projects
 
-### ⚛️ Quantum & Research-Oriented Work
+### 🌍 WorldPass (Ongoing)
 
-* Exploring quantum computing concepts
-* Studying post-quantum ideas and algorithms
-* Building small experimental implementations
+Quantum-resistant digital identity system
+→ Designing a future-proof identity architecture
+
+---
+
+### ⚛️ Quantum Experiments
+
+Small-scale implementations & simulations
+→ Understanding quantum concepts through code
 
 ---
 
 ### 💻 Software Projects
 
-* Backend-focused applications
-* System-level experiments
-* Practical problem-solving projects
+Backend systems & engineering experiments
+→ Focus on clean architecture and scalability
 
 ---
 
-## 📊 Currently Working On
+## 📊 GitHub Stats
 
-* ⚛️ Learning Quantum Computing deeper
-* 💻 Building new software projects
-* 🐳 Improving Docker & system skills
+![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathissdupont\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathissdupont\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🎯 Goals
+## 🎯 Currently Learning
 
-* Become a strong **Software Engineer with quantum focus**
-* Work on next-generation computing technologies
-* Build meaningful and scalable systems
+* ⚛️ Quantum Computing (mathematical foundations & models)
+* 🧠 How quantum systems differ from classical computation
+* 🐳 Building reproducible environments with Docker
+* ⚙️ Designing scalable backend systems
+
+---
+
+## 🚀 Goals
+
+* Become a **quantum-focused software engineer**
+* Work on next-generation computing systems
+* Contribute to future computing paradigms
 
 ---
 
@@ -81,4 +93,4 @@ I enjoy building systems while exploring how future technologies like quantum co
 
 ## ⚡ Philosophy
 
-> "Understand the fundamentals. Build the future."
+> "The best way to understand the future is to build it."
