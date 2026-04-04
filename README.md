@@ -62,9 +62,9 @@ Backend systems & engineering experiments
 
 ## 📊 GitHub Stats
 
-![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathissdupont\&show_icons=true\&theme=tokyonight)
+![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathissdupont\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathissdupont&layout=compact)
 
 ---
 
