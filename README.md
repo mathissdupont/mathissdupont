@@ -8,7 +8,7 @@ Computer Engineering student focused on **Quantum Computing and Software Develop
 
 ## About Me
 
-* 3rd year Computer Engineering student
+* 4th year Computer Engineering student
 * Focused on Quantum Computing
 * Building real-world software systems
 * Interested in combining theory with practical engineering
