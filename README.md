@@ -78,21 +78,10 @@ My current work ranges from a statically typed language for policy-constrained A
 
 ## GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true" alt="Samet Ünsal's GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mathissdupont&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=mathissdupont&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mathissdupont&hide_border=true" alt="Samet Ünsal's GitHub contribution streak" />
-</picture>
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=mathissdupont&layout=compact&hide_border=true&exclude_repo=CryptoGraph" />
+</p>
 
 ## Research Direction
 
