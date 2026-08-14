@@ -76,6 +76,24 @@ My current work ranges from a statically typed language for policy-constrained A
 - **[Autonomous Vehicle Simulation](https://github.com/mathissdupont/autonomous_car_w_gazebo)** — ROS 2 and Gazebo simulation using camera, LiDAR, GPS/IMU fusion, OpenCV, and PCL
 - **[Comtouz](https://github.com/mathissdupont/comtouz)** — a graph-first reputation platform using Next.js, Flutter, Neo4j, and Redis
 
+## GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mathissdupont&show_icons=true&include_all_commits=true&hide_border=true" alt="Samet Ünsal's GitHub statistics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mathissdupont&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=mathissdupont&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mathissdupont&hide_border=true" alt="Samet Ünsal's GitHub contribution streak" />
+</picture>
+
+</div>
+
 ## Research Direction
 
 - Quantum computing fundamentals, mathematical models, and simulation
