@@ -23,7 +23,7 @@ I build tools that make complex systems more <strong>explicit, verifiable, porta
 
 ## About Me
 
-I am a Computer Engineering student working across **compiler and toolchain development**, **embedded and cryptographic security**, **AI infrastructure**, and **full-stack product engineering**.
+I am a Computer Engineer working across **Quantum Systems and Software**. **compiler and toolchain development**, **embedded and cryptographic security**, **AI infrastructure**, and **full-stack product engineering**.
 
 My current work ranges from a statically typed language for policy-constrained AI agents to cross-platform secure firmware updates, cryptographic code analysis, digital identity, and production-oriented web platforms. My long-term research direction is **quantum computing and post-quantum systems**.
 
